@@ -103,7 +103,7 @@ function App() {
 
         {/* Botão */}
         <a
-          href="#"
+          href="https://pay.hotmart.com/B100463904F?checkoutMode=10"
           className="mt-10 relative z-10 inline-block font-['Orbitron'] font-bold text-black bg-gradient-to-r from-[#00D9FF] to-[#00A8CC] px-10 py-4 rounded-lg hover:shadow-[0_0_30px_rgba(0,217,255,0.4)] hover:scale-105 transition-all duration-300 text-[14px] md:text-[18px] hero-animate-4"
         >
           Quero estruturar minhas campanhas &#8594;
@@ -177,7 +177,7 @@ function App() {
         {/* Botão */}
         <Reveal delay={0.1}>
           <a
-            href="#"
+            href="https://pay.hotmart.com/B100463904F?checkoutMode=10"
             className="mt-10 inline-block font-['Orbitron'] font-bold text-black bg-gradient-to-r from-[#00D9FF] to-[#00A8CC] px-10 py-4 rounded-lg hover:shadow-[0_0_30px_rgba(0,217,255,0.4)] hover:scale-105 transition-all duration-300 text-[14px] md:text-[18px]"
           >
             Quero estruturar minhas campanhas &#8594;
@@ -280,7 +280,7 @@ function App() {
         {/* Botão */}
         <Reveal className="flex justify-center mt-12 relative z-10">
           <a
-            href="#"
+            href="https://pay.hotmart.com/B100463904F?checkoutMode=10"
             className="inline-block font-['Orbitron'] font-bold text-black bg-gradient-to-r from-[#00D9FF] to-[#00A8CC] px-10 py-4 rounded-lg hover:shadow-[0_0_30px_rgba(0,217,255,0.4)] hover:scale-105 transition-all duration-300 text-[14px] md:text-[18px]"
           >
             Quero estruturar minhas campanhas &#8594;
@@ -379,7 +379,7 @@ function App() {
         {/* Botão */}
         <Reveal>
           <a
-            href="#"
+            href="https://pay.hotmart.com/B100463904F?checkoutMode=10"
             className="mt-12 inline-block font-['Orbitron'] font-bold text-black bg-gradient-to-r from-[#00D9FF] to-[#00A8CC] px-10 py-4 rounded-lg hover:shadow-[0_0_30px_rgba(0,217,255,0.4)] hover:scale-105 transition-all duration-300 text-[14px] md:text-[18px]"
           >
             Quero estruturar minhas campanhas &#8594;
@@ -439,7 +439,7 @@ function App() {
 
             {/* Botão */}
             <a
-              href="#"
+              href="https://pay.hotmart.com/B100463904F?checkoutMode=10"
               className="mt-8 w-full text-center inline-block font-['Orbitron'] font-bold text-black bg-gradient-to-r from-[#00D9FF] to-[#00A8CC] px-10 py-4 rounded-lg hover:shadow-[0_0_30px_rgba(0,217,255,0.4)] hover:scale-105 transition-all duration-300 text-[14px] md:text-[18px]"
             >
               Quero parar de improvisar campanha &#8594;
@@ -529,7 +529,7 @@ function App() {
         {/* Botão */}
         <Reveal>
           <a
-            href="#"
+            href="https://pay.hotmart.com/B100463904F?checkoutMode=10"
             className="mt-12 inline-block font-['Orbitron'] font-bold text-black bg-gradient-to-r from-[#00D9FF] to-[#00A8CC] px-10 py-4 rounded-lg hover:shadow-[0_0_30px_rgba(0,217,255,0.4)] hover:scale-105 transition-all duration-300 text-[14px] md:text-[18px]"
           >
             Quero parar de improvisar campanha &#8594;
